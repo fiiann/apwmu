@@ -58,6 +58,7 @@
         <activity
             android:name=".JadwalWisudawan"
             android:label="@string/title_jadwal_wisuda"
+            android:theme="@style/AppTheme.NoActionBar"
             android:screenOrientation="portrait" />
         <activity
             android:name=".IdentitasPribadiActivity"

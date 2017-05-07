@@ -33,12 +33,12 @@ public class IdentitasPribadiActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view2);
         navigationView.setNavigationItemSelectedListener(this);
-//        textView = (TextView) findViewById(R.id.d_nama);
+        textView = (TextView) findViewById(R.id.d_namas);
 //        textView1 = (TextView) findViewById(R.id.d_nim);
 
-//        Intent intent = getIntent();
+        Intent intent = getIntent();
 
-//        textView.setText(intent.getStringExtra(LoginActivity.KEY_USERNAME));
+        textView.setText(intent.getStringExtra(LoginActivity.KEY_USERNAME));
 //        textView1.setText(intent.getStringExtra(LoginActivity.KEY_NIM));
 
     }
@@ -60,20 +60,20 @@ public class IdentitasPribadiActivity extends AppCompatActivity
         return true;
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
-
-        return super.onOptionsItemSelected(item);
-    }
+//    @Override
+//    public boolean onOptionsItemSelected(MenuItem item) {
+//        // Handle action bar item clicks here. The action bar will
+//        // automatically handle clicks on the Home/Up button, so long
+//        // as you specify a parent activity in AndroidManifest.xml.
+//        int id = item.getItemId();
+//
+//        //noinspection SimplifiableIfStatement
+//        if (id == R.id.action_settings) {
+//            return true;
+//        }
+//
+//        return super.onOptionsItemSelected(item);
+//    }
 
 
     @SuppressWarnings("StatementWithEmptyBody")

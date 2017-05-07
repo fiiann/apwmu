@@ -17,6 +17,11 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
+import static com.mcn.apwmu.LoginActivity.KEY_NIM;
+import static com.mcn.apwmu.LoginActivity.KEY_USERNAME;
+import static com.mcn.apwmu.R.id.nim;
+import static com.mcn.apwmu.R.string.username;
+
 public class DashboardActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     private TextView textView;
@@ -42,8 +47,8 @@ public class DashboardActivity extends AppCompatActivity
 
         Intent intent = getIntent();
 
-        textView.setText(intent.getStringExtra(LoginActivity.KEY_USERNAME));
-        textView1.setText(intent.getStringExtra(LoginActivity.KEY_NIM));
+        textView.setText(intent.getStringExtra(KEY_USERNAME));
+        textView1.setText(intent.getStringExtra(KEY_NIM));
 
     }
 
@@ -78,21 +83,21 @@ public class DashboardActivity extends AppCompatActivity
         getMenuInflater().inflate(R.menu.dashboard, menu);
         return true;
     }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
-
-        return super.onOptionsItemSelected(item);
-    }
+//
+//    @Override
+//    public boolean onOptionsItemSelected(MenuItem item) {
+//        // Handle action bar item clicks here. The action bar will
+//        // automatically handle clicks on the Home/Up button, so long
+//        // as you specify a parent activity in AndroidManifest.xml.
+//        int id = item.getItemId();
+//
+//        //noinspection SimplifiableIfStatement
+//        if (id == R.id.action_settings) {
+//            return true;
+//        }
+//
+//        return super.onOptionsItemSelected(item);
+//    }
 
 
     @SuppressWarnings("StatementWithEmptyBody")

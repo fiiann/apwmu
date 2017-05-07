@@ -154,7 +154,6 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/colorBlack"
                 android:maxLength="22"
-                android:textAllCaps="true"
                 android:text="Nama Lengkap"
                 android:id="@+id/d_nama"
                 android:textSize="@dimen/normalsp"/>
