@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mcn.apwmu.JadwalWisudawan">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="50dp"
+            tools:layout_editor_absoluteY="8dp"
+            tools:layout_editor_absoluteX="8dp">
+            <View
+                android:id="@+id/header_jadwal"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/back"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/header_jadwal"
+                android:text="17 Mei 2017  |  Semarang"
+                android:textSize="12sp"
+                android:id="@+id/tanggal"
+                android:textColor="@color/colorWhite"
+                android:layout_marginStart="@dimen/fab_margin"
+                android:layout_marginEnd="@dimen/fab_margin"
+                android:layout_marginBottom="20dp"/>
+
+            <TextView
+                android:layout_marginStart="@dimen/fab_margin"
+                android:layout_marginEnd="@dimen/fab_margin"
+                android:layout_marginBottom="20dp"
+                android:layout_width="240dp"
+                android:layout_above="@id/tanggal"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:textSize="22sp"
+                android:text="Jadwal Wisuda Universitas Diponegoro"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/header_jadwal"
+                android:layout_alignParentRight="true"
+                android:layout_marginEnd="30dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="@color/colorWhite"
+                android:textSize="10sp"
+                android:background="@drawable/oval"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingStart="13dp"
+                android:paddingEnd="13dp"
+                android:text="ADMIN"/>
+
+            <TextView
+                android:id="@+id/view1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tanggal"
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="@dimen/fab_margin"
+                android:layout_marginEnd="@dimen/fab_margin"
+                android:text="@string/dummyText"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/view1"
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="@dimen/fab_margin"
+                android:layout_marginEnd="@dimen/fab_margin"
+                android:text="@string/dummyText"
+                android:textSize="16sp"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
