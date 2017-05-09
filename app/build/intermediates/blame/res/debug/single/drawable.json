@@ -1,318 +1,634 @@
 [
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_identitas_active.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_identitas_active.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_identitas_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_identitas_active.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\background.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_identitas_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_identitas_active.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in_button.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\sign_in_button.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/back.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cari_button.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\cari_button.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\container_dashboard.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\container_dashboard.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cari_button.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\cari_button.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\logo2.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nverif.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\nverif.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nverif.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\nverif.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\logo2.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\container_dashboard.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\container_dashboard.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_informasi.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_informasi.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_cari_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_cari_active.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\oval.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\back.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\oval.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dummy.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\dummy.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/container_title.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/container_title.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dummy.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\dummy.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/logoapwmu.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/logoapwmu.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cari_active.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_cari_active.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_active.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_login_active.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_informasi_selected.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_informasi_selected.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cari__selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_cari__selected.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_identitas.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_identitas.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\input_background.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cari__selected.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_cari__selected.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/logo2.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/logo2.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\container_title.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\container_title.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_background.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\input_background.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_identitas_selected.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_identitas_selected.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_informasi.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_informasi.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_login.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/sign_in_button.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/sign_in_button.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_pencarian_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_pencarian_selected.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_informasi_active.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_informasi_active.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoapwmu.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\logoapwmu.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoapwmu.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\logoapwmu.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pencarian_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_pencarian_active.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pencarian_active.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_pencarian_active.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\container_content.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\container_content.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_jadwal.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_jadwal.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_jadwal.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_jadwal.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pencarian_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_pencarian_selected.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pencarian_selected.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_pencarian_selected.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/cari_button.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/cari_button.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verif.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\verif.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verif.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\verif.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_selected.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_login_selected.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pencarian.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_pencarian.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pencarian.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_pencarian.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\logo1.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\logo1.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_jadwal_selected.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_jadwal_selected.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/container_dashboard.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/container_dashboard.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\line.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/background.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_jadwal_active.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_jadwal_active.png"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_informasi_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_informasi_selected.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tagline2.png",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\tagline2.png"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\line.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cari.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_cari.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cari.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_cari.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_login_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_login_active.png"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_in_button.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\sign_in_button.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/verif.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/verif.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_informasi.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_informasi.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_login_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_login_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/container_content.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/container_content.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_cari_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_cari_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_login_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/input_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/input_background.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_informasi_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_informasi_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/tagline2.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/tagline2.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_identitas.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_identitas.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_identitas.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_identitas.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_jadwal_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_jadwal_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/line.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/line.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_jadwal_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_jadwal_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/nverif.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/nverif.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\container_title.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\container_title.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_identitas_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_identitas_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_informasi_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\btn_informasi_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_identitas_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_identitas_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_login.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_informasi_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_informasi_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/dummy.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/dummy.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_cari__selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_cari__selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_cari.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_cari.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_pencarian_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_pencarian_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\container_content.xml",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\container_content.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/button_jadwal.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/button_jadwal.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/oval.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/oval.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_login_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/btn_pencarian.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/btn_pencarian.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_jadwal_selected.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_jadwal_selected.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/logo1.png",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/drawable/logo1.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_jadwal_active.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\button_jadwal_active.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tagline2.png",
+        "source": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\src\\main\\res\\drawable\\tagline2.png"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable\\abc_ratingbar_material.xml"
     }
 ]

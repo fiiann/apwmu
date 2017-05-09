@@ -1,10 +1,18 @@
 [
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

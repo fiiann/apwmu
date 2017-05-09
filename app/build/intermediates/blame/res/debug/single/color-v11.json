@@ -1,10 +1,18 @@
 [
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]
