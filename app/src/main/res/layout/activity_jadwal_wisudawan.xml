@@ -370,7 +370,8 @@
                     android:layout_height="wrap_content"
                     android:padding="8dp"
                     android:background="@drawable/container_dashboard"
-                    android:text="Download Berkas"
+                    android:text="@string/linkdownload"
+                    android:autoLink="web"
                     android:id="@+id/link"/>
             </LinearLayout>
 
