@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_identitas_pribadi.xml",
-        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\layout\\content_identitas_pribadi.xml"
-    },
-    {
         "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_f_identitas_pribadi.xml",
         "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\layout\\content_f_identitas_pribadi.xml"
+    },
+    {
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_identitas_pribadi.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\layout\\content_identitas_pribadi.xml"
     },
     {
         "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_f_tugas_akhir.xml",
