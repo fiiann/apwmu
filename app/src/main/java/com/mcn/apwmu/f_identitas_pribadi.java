@@ -13,7 +13,7 @@ import static com.mcn.apwmu.LoginActivity.KEY_NIM;
 import static com.mcn.apwmu.LoginActivity.KEY_USERNAME;
 
 public class f_identitas_pribadi extends AppCompatActivity {
-
+//    TODO Penambahan atribut lain
     private String nama;
     TextView text_nama;
 

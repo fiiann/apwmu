@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/menu/dashboard.xml",
-        "source": "/home/fian/project/apwmu/app/src/main/res/menu/dashboard.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_dashboard_drawer.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\menu\\activity_dashboard_drawer.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/menu/activity_dashboard_drawer.xml",
-        "source": "/home/fian/project/apwmu/app/src/main/res/menu/activity_dashboard_drawer.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\menu\\dashboard.xml"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/home/fian/project/apwmu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
-        "source": "/home/fian/project/apwmu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\apwmu\\apwmu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]

@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/fian/project/apwmu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="E:\apwmu\apwmu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6e8e4c6d139be2f110b0b082eed9b155078119fd">
-        <dex dex="/home/fian/project/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c72e06a2402fdd22c2ea37a312998f76c6f74f6/classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\apwmu\apwmu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d5936868459e8832aec97e2e78080248807ad4ca\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/fian/project/apwmu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="E:\apwmu\apwmu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/home/fian/project/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_66efb37ba608d9b1ecab2a156804e4c1fae0e746/classes.dex" />
+        sha1="5cb6eb6fe78d6cc2db84084016c71430a02ccc0a">
+        <dex dex="E:\apwmu\apwmu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da3c0b40466c52f2b792926c73a2cf4a79ece63f\classes.dex" />
     </item>
 
 </items>

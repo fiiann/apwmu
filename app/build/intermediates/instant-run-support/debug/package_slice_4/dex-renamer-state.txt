@@ -1,4 +1,4 @@
-#Tue May 09 15:48:12 WIB 2017
-base.0=/home/fian/project/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+#Tue May 09 22:43:31 ICT 2017
+base.0=E\:\\apwmu\\apwmu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
-file.0=/home/fian/project/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
+file.0=E\:\\apwmu\\apwmu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

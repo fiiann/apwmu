@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/fian/project/apwmu/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/4e11e8ff4fc1db5ab721317829cd549c4a3550ec/output/res/values/values.xml",
+                    "file": "C:\\Users\\DELL 5480\\.android\\build-cache\\0e01acad06185d589360b39d6b4059195da0ca4d\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

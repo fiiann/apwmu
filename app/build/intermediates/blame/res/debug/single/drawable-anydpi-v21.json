@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_tugas_akhir.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_tugas_akhir.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_jadwal.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_jadwal.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_dashboard.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_dashboard.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_person.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_person.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_info.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_info.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_dashboard.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_dashboard.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_jadwal.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_jadwal.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_logout.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_logout.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_info.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_info.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_pencarian.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_pencarian.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_logout.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_logout.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_person.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_person.xml"
     },
     {
-        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_pencarian.xml",
-        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_pencarian.xml"
+        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon_tugas_akhir.xml",
+        "source": "E:\\apwmu\\apwmu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_tugas_akhir.xml"
     }
 ]
