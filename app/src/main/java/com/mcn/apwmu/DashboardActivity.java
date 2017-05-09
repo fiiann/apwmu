@@ -2,8 +2,6 @@ package com.mcn.apwmu;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -15,17 +13,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import static com.mcn.apwmu.LoginActivity.KEY_NIM;
 import static com.mcn.apwmu.LoginActivity.KEY_USERNAME;
-import static com.mcn.apwmu.R.id.nim;
-import static com.mcn.apwmu.R.string.username;
 
 public class DashboardActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    private TextView textView;
-    private TextView textView1;
+    private TextView nama;
+    private TextView nim;
+    private TextView nav_nama1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,24 +37,36 @@ public class DashboardActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        textView = (TextView) findViewById(R.id.d_nama);
-        textView1 = (TextView) findViewById(R.id.d_nim);
+        nama = (TextView) findViewById(R.id.d_nama);
+        nim = (TextView) findViewById(R.id.d_nim);
+//        nav_nama1 = (TextView) findViewById(R.id.nav_nama);
 
         Intent intent = getIntent();
-
-        textView.setText(intent.getStringExtra(KEY_USERNAME));
-        textView1.setText(intent.getStringExtra(KEY_NIM));
+        String dashboard_nim = intent.getStringExtra(KEY_NIM);
+        String dashboard_nama= intent.getStringExtra(KEY_USERNAME);
+        String nav_nama= intent.getStringExtra(KEY_USERNAME);
+        String nim1 = nim.toString();
+        nama.setText(dashboard_nama);
+        nim.setText(dashboard_nim);
+//        nav_nama1.setText(dashboard_nama);
 
     }
-
+//    public static final String key;
     public void identitasPribadi(View view){
-        Intent myintent = new Intent(this, IdentitasPribadiActivity.class);
+        String namaku = nama.getText().toString().trim();
+        Intent myintent = new Intent(this, f_identitas_pribadi.class);
+        myintent.putExtra(KEY_USERNAME, namaku);
         startActivity(myintent);
     }
 
     public void informasiTugasAkhir(View view){
-        Intent myintent = new Intent(this, InformasiTugasAkhirActivity.class);
-        startActivity(myintent);
+
+        String nimku = nim.getText().toString().trim();
+        String namaku = nama.getText().toString().trim();
+        Intent myintents = new Intent(this, f_tugas_akhir.class);
+        myintents.putExtra("nim", nimku);
+        myintents.putExtra(KEY_USERNAME, namaku);
+        startActivity(myintents);
     }
 
     public void cariWisudawanUndip(View view){
@@ -107,14 +114,24 @@ public class DashboardActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_dashboard) {
+            String namaku = nama.getText().toString().trim();
+            String nimku= nim.getText().toString().trim();
             Intent myintent = new Intent(this, DashboardActivity.class);
+            myintent.putExtra(KEY_USERNAME, namaku);
+            myintent.putExtra(KEY_NIM, nimku);
             startActivity(myintent);
         } else if (id == R.id.nav_identitas) {
-            Intent myintent = new Intent(this, IdentitasPribadiActivity.class);
+            String namaku = nama.getText().toString().trim();
+            Intent myintent = new Intent(this, f_identitas_pribadi.class);
+            myintent.putExtra(KEY_USERNAME, namaku);
             startActivity(myintent);
         } else if (id == R.id.nav_ta) {
-            Intent myintent = new Intent(this, InformasiTugasAkhirActivity.class);
-            startActivity(myintent);
+            String nimku = nim.getText().toString().trim();
+            String namaku = nama.getText().toString().trim();
+            Intent myintents = new Intent(this, f_tugas_akhir.class);
+            myintents.putExtra(KEY_NIM, nimku);
+            myintents.putExtra(KEY_USERNAME, namaku);
+            startActivity(myintents);
         } else if (id == R.id.nav_cari) {
             Intent myintent = new Intent(this, CariWisudaActivity.class);
             startActivity(myintent);
@@ -122,7 +139,8 @@ public class DashboardActivity extends AppCompatActivity
             Intent myintent = new Intent(this, JadwalWisudawan.class);
             startActivity(myintent);
         } else if (id == R.id.nav_logout) {
-
+            Intent myintent = new Intent(this, MainActivity.class);
+            startActivity(myintent);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

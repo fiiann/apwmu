@@ -33,7 +33,7 @@ package com.mcn.apwmu;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
 
-    public static final String LOGIN_URL = "http://192.168.1.19/kuliah/ppl/api/login.php";
+    public static final String LOGIN_URL = "http://192.168.1.24/kuliah/ppl/api/login.php";
     //public static final String LOGIN_URL = "http://192.168.1.6/kuliah/ppl/api_v1/login.php";
 
     public static final String KEY_NIM="nim";

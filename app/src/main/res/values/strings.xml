@@ -35,4 +35,7 @@
 
     <!-- Image Description -->
     <string name="image_verif">gambar verifikasi</string>
+    <string name="title_activity_f_identitas_pribadi">Informasi Identitas Pribadi</string>
+    <string name="title_activity_f_tugas_akhir">Informasi Tugas Akhir</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>

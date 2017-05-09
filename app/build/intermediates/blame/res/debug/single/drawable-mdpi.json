@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_pencarian.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_pencarian.png"
+    },
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_jadwal.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_jadwal.png"
+    },
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_logout.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_logout.png"
+    },
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_person.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_person.png"
+    },
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_tugas_akhir.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_tugas_akhir.png"
+    },
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_info.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_info.png"
+    },
+    {
+        "merged": "/home/fian/project/apwmu/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_dashboard.png",
+        "source": "/home/fian/project/apwmu/app/build/generated/res/pngs/debug/drawable-mdpi/icon_dashboard.png"
+    }
+]

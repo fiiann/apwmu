@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity{
     }
 
     public void cariWisudawanHalaman(View view){
-        Intent myintent = new Intent(this, DashboardActivity.class);
+        Intent myintent = new Intent(this, Main2Activity.class);
         startActivity(myintent);
     }
 
