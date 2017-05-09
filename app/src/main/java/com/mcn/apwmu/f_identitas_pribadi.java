@@ -28,6 +28,7 @@ public class f_identitas_pribadi extends AppCompatActivity {
         String dashboard_nama= intent.getStringExtra(KEY_USERNAME);
         text_nama.setText(dashboard_nama);
 //  TODO ambil data dari data_induk
+//  TODO jangan lupa makan :D
     }
 
 }
