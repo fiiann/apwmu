@@ -1,6 +1,7 @@
 package com.mcn.apwmu;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -11,12 +12,29 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.JsonObjectRequest;
+import com.mcn.apwmu.app.AppController;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class InformasiTugasAkhirActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener{
 
     private TextView textView;
     private TextView textView1;
+    private TextView judul_ta;
+    private TextView dosbing;
+    private TextView ipk;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,15 +51,18 @@ public class InformasiTugasAkhirActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view3);
         navigationView.setNavigationItemSelectedListener(this);
-//        textView = (TextView) findViewById(R.id.d_nama);
-//        textView1 = (TextView) findViewById(R.id.d_nim);
+        textView = (TextView) findViewById(R.id.d_nama);
+        textView1 = (TextView) findViewById(R.id.d_nim);
 
-//        Intent intent = getIntent();
+        Intent intent = getIntent();
 
-//        textView.setText(intent.getStringExtra(LoginActivity.KEY_USERNAME));
-//        textView1.setText(intent.getStringExtra(LoginActivity.KEY_NIM));
+        textView.setText(intent.getStringExtra(LoginActivity.KEY_USERNAME));
+        textView1.setText(intent.getStringExtra(LoginActivity.KEY_NIM));
 
     }
+
+
+
 
     @Override
     public void onBackPressed() {
