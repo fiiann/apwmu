@@ -73,8 +73,8 @@ public class f_identitas_pribadi extends AppCompatActivity {
         jurusan.setText(dashboard_prodi);
         fakultas.setText(dashboard_fakultas);
         text_nama.setText(dashboard_nama);
-        Toast.makeText(this,dashboard_nim,Toast.LENGTH_SHORT).show();
-        String url = "http://192.168.43.188/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
+//        Toast.makeText(this,dashboard_nim,Toast.LENGTH_SHORT).show();
+        String url = "http://192.168.1.24/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
                 new Response.Listener<JSONObject>() {

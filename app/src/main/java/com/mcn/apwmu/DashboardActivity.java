@@ -73,7 +73,7 @@ public class DashboardActivity extends AppCompatActivity
         nim.setText(dashboard_nim);
 //        nav_nama1.setText(dashboard_nama);
 
-        String url = "http://192.168.43.188/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
+        String url = "http://192.168.1.24/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
                 new Response.Listener<JSONObject>() {
@@ -235,7 +235,7 @@ public class DashboardActivity extends AppCompatActivity
             myintents.putExtra(KEY_USERNAME, namaku);
             myintents.putExtra(KEY_FAKULTAS, fakultasku);
             myintents.putExtra(KEY_PRODI, prodiku);
-            Toast.makeText(this,"fakultas: "+fakultasku+"jurusan "+prodiku,Toast.LENGTH_SHORT).show();
+//            Toast.makeText(this,"fakultas: "+fakultasku+"jurusan "+prodiku,Toast.LENGTH_SHORT).show();
             startActivity(myintents);
         } else if (id == R.id.nav_cari) {
             Intent myintent = new Intent(this, CariWisudaActivity.class);

@@ -33,7 +33,7 @@ package com.mcn.apwmu;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
 
-    public static final String LOGIN_URL = "http://192.168.43.188/kuliah/ppl/api/login.php";
+    public static final String LOGIN_URL = "http://192.168.1.24/kuliah/ppl/api/login.php";
 //    public static final String LOGIN_URL = "http://pplasik.96.lt/login.php";
 
     public static final String KEY_NIM="nim";
@@ -110,7 +110,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 //                        intent1.putExtra(KEY_NIM, nim);
 //                        intent1.putExtra(KEY_USERNAME, username);
 //                        startActivity(intent1);
-                        Toast.makeText(LoginActivity.this, nim,Toast.LENGTH_LONG).show();
+                        Toast.makeText(LoginActivity.this,"Successfully login . . .",Toast.LENGTH_SHORT).show();
 
 
                         if(apiKey!=null && nim!=null){
