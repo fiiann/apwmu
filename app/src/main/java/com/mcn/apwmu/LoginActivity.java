@@ -33,8 +33,8 @@ package com.mcn.apwmu;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
 
-    public static final String LOGIN_URL = "http://192.168.1.24/kuliah/ppl/api/login.php";
-    //public static final String LOGIN_URL = "http://192.168.1.6/kuliah/ppl/api_v1/login.php";
+    public static final String LOGIN_URL = "http://192.168.43.188/kuliah/ppl/api/login.php";
+//    public static final String LOGIN_URL = "http://pplasik.96.lt/login.php";
 
     public static final String KEY_NIM="nim";
     public static final String KEY_PASSWORD="password";
@@ -84,6 +84,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                         String r_apiKey = null;
                         String r_nim= null;
                         String r_username= null;
+//                        String r_username= null;
                         try {
                             r_apiKey = mainObject.getString("apiKey");
                             r_nim= mainObject.getString("nim");
@@ -110,6 +111,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 //                        intent1.putExtra(KEY_USERNAME, username);
 //                        startActivity(intent1);
                         Toast.makeText(LoginActivity.this, nim,Toast.LENGTH_LONG).show();
+
 
                         if(apiKey!=null && nim!=null){
                             Intent intent = new Intent(LoginActivity.this,DashboardActivity.class);

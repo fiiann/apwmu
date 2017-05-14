@@ -1,18 +1,18 @@
 [
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

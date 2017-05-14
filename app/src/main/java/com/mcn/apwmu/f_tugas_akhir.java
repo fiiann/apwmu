@@ -37,6 +37,8 @@ public class f_tugas_akhir extends AppCompatActivity {
     private TextView dosbing;
     private TextView ipk;
     private TextView d_nama;
+    private TextView jurusan;
+    private TextView fakultas;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -48,6 +50,8 @@ public class f_tugas_akhir extends AppCompatActivity {
         dosbing = (TextView) findViewById(R.id.d_pembimbing_satu);
         ipk= (TextView) findViewById(R.id.d_ipk);
         d_nama = (TextView) findViewById(R.id.d_namas);
+        fakultas= (TextView) findViewById(R.id.d_fakultass);
+        jurusan= (TextView) findViewById(R.id.d_jurusann);
 
 //        text_nim= (TextView) findViewById(R.id.t_nim);
 //        imageView = (NetworkImageView) findViewById(R.id.Image_view);
@@ -58,6 +62,10 @@ public class f_tugas_akhir extends AppCompatActivity {
         Intent intent = getIntent();
         String dashboard_nim = intent.getStringExtra(KEY_NIM);
         String dashboard_nama= intent.getStringExtra(KEY_USERNAME);
+        String dashboard_prodi= intent.getStringExtra(DashboardActivity.KEY_PRODI);
+        String dashboard_fakultas= intent.getStringExtra(DashboardActivity.KEY_FAKULTAS);
+        jurusan.setText(dashboard_prodi);
+        fakultas.setText(dashboard_fakultas);
 //        String nim1 = nim.toString();
         d_nama.setText(dashboard_nama);
 //         nim.setText(dashboard_nim);
@@ -67,7 +75,7 @@ public class f_tugas_akhir extends AppCompatActivity {
 //        d_nama.setText();
         Toast.makeText(f_tugas_akhir.this,nim,Toast.LENGTH_LONG).show();
 //        Toast.makeText(TugasAkhirActivity.this,ipk.toString(),Toast.LENGTH_LONG).show();
-        String url = "http://192.168.1.24/kuliah/ppl/api/mhs.php?nim="+nim.toString();
+        String url = "http://192.168.43.188/kuliah/ppl/api/mhs.php?nim="+nim.toString();
 
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
