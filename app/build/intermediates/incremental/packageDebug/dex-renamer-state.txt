@@ -1,7 +1,7 @@
-#Wed May 10 01:00:47 ICT 2017
-base.0=E\:\\apwmu\\apwmu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d5936868459e8832aec97e2e78080248807ad4ca
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\apwmu\\apwmu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da3c0b40466c52f2b792926c73a2cf4a79ece63f\\classes.dex
-base.1=E\:\\apwmu\\apwmu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da3c0b40466c52f2b792926c73a2cf4a79ece63f
-file.0=E\:\\apwmu\\apwmu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d5936868459e8832aec97e2e78080248807ad4ca\\classes.dex
+#Sat May 13 17:18:57 WIB 2017
+base.0=/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05715e3175163dc0643f17c71a103ad21195bf5f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7d4c1a40d5e505d6e82af83c44d2cde5b3fe8bdd/classes.dex
+base.1=/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7d4c1a40d5e505d6e82af83c44d2cde5b3fe8bdd
+file.0=/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05715e3175163dc0643f17c71a103ad21195bf5f/classes.dex

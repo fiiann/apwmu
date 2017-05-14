@@ -1,6 +1,8 @@
 package com.mcn.apwmu;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -12,6 +14,20 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.JsonObjectRequest;
+import com.mcn.apwmu.app.AppController;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.HashMap;
+import java.util.Map;
 
 import static com.mcn.apwmu.LoginActivity.KEY_NIM;
 import static com.mcn.apwmu.LoginActivity.KEY_USERNAME;
@@ -21,6 +37,11 @@ public class DashboardActivity extends AppCompatActivity
     private TextView nama;
     private TextView nim;
     private TextView nav_nama1;
+    private ProgressDialog dialog;
+    private TextView fakultas;
+    private TextView jurusan;
+    public static final String KEY_PRODI="prodi";
+    public static final String KEY_FAKULTAS="fakultas";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,6 +60,8 @@ public class DashboardActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
         nama = (TextView) findViewById(R.id.d_nama);
         nim = (TextView) findViewById(R.id.d_nim);
+        fakultas= (TextView) findViewById(R.id.d_fakultas);
+        jurusan = (TextView) findViewById(R.id.d_prodi);
 //        nav_nama1 = (TextView) findViewById(R.id.nav_nama);
 
         Intent intent = getIntent();
@@ -50,12 +73,83 @@ public class DashboardActivity extends AppCompatActivity
         nim.setText(dashboard_nim);
 //        nav_nama1.setText(dashboard_nama);
 
+        String url = "http://192.168.43.188/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
+
+        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
+                new Response.Listener<JSONObject>() {
+                    @Override
+                    public void onResponse(JSONObject response) {
+                        hideDialog();
+
+                        try {
+                            JSONObject body = response.getJSONObject("results");
+                            String faculty = body.getString("fakultas");
+                            fakultas.setText(faculty);
+                            String prodi = body.getString("jurusan");
+                            jurusan.setText(prodi);
+//                            ipk.setText(body.getString("ipk"));
+//                            text_nim.setText(body.getString("nim"));
+
+
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                        String r_fakultas= null;
+                        String r_jurusan= null;
+
+                        try {
+                            JSONObject body = response.getJSONObject("results");
+                            r_fakultas= body.getString("fakultas");
+                            r_jurusan= body.getString("jurusan");
+//
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                        SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", 0); // 0 - for private mode
+                        SharedPreferences.Editor editor = pref.edit();
+
+                        editor.putString("fakultas", r_fakultas); // Storing string
+                        editor.putString("jurusan", r_jurusan);
+
+
+                        editor.commit(); // commit changes
+
+                        String fakultas= pref.getString("fakultas", null); // getting String
+                        String jurusan= pref.getString("jurusan", null); // getting Integer
+//                        Toast.makeText(DashboardActivity.this,fakultas,Toast.LENGTH_LONG).show();
+                    }
+                }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Toast.makeText(DashboardActivity.this,error.toString(),Toast.LENGTH_LONG).show();
+            }
+        }){
+            @Override
+            public Map<String, String> getHeaders() throws AuthFailureError {
+                HashMap<String, String> params = new HashMap<String, String>();
+                SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", 0);
+
+                String apiKey = pref.getString("apiKey", null);
+                params.put("Authorization", apiKey);
+                return params;
+            }
+        };
+        AppController.getmInstance().addToRequesQueue(jsonObjectRequest);
+
+    }
+    public void hideDialog(){
+        if (dialog!=null){
+            dialog.dismiss();
+            dialog=null;
+        }
     }
 //    public static final String key;
     public void identitasPribadi(View view){
         String namaku = nama.getText().toString().trim();
+        String nimku = nim.getText().toString().trim();
         Intent myintent = new Intent(this, f_identitas_pribadi.class);
         myintent.putExtra(KEY_USERNAME, namaku);
+        myintent.putExtra(KEY_NIM, nimku);
         startActivity(myintent);
     }
 
@@ -63,9 +157,13 @@ public class DashboardActivity extends AppCompatActivity
 
         String nimku = nim.getText().toString().trim();
         String namaku = nama.getText().toString().trim();
+        String fakultasku = fakultas.getText().toString().trim();
+        String prodiku= jurusan.getText().toString().trim();
         Intent myintents = new Intent(this, f_tugas_akhir.class);
-        myintents.putExtra("nim", nimku);
+        myintents.putExtra(KEY_NIM, nimku);
         myintents.putExtra(KEY_USERNAME, namaku);
+        myintents.putExtra(KEY_FAKULTAS, fakultasku);
+        myintents.putExtra(KEY_PRODI, prodiku);
         startActivity(myintents);
     }
 
@@ -121,16 +219,23 @@ public class DashboardActivity extends AppCompatActivity
             myintent.putExtra(KEY_NIM, nimku);
             startActivity(myintent);
         } else if (id == R.id.nav_identitas) {
+            String nimku = nim.getText().toString().trim();
             String namaku = nama.getText().toString().trim();
             Intent myintent = new Intent(this, f_identitas_pribadi.class);
+            myintent.putExtra(KEY_NIM, nimku);
             myintent.putExtra(KEY_USERNAME, namaku);
             startActivity(myintent);
         } else if (id == R.id.nav_ta) {
             String nimku = nim.getText().toString().trim();
             String namaku = nama.getText().toString().trim();
+            String fakultasku = fakultas.getText().toString().trim();
+            String prodiku= jurusan.getText().toString().trim();
             Intent myintents = new Intent(this, f_tugas_akhir.class);
             myintents.putExtra(KEY_NIM, nimku);
             myintents.putExtra(KEY_USERNAME, namaku);
+            myintents.putExtra(KEY_FAKULTAS, fakultasku);
+            myintents.putExtra(KEY_PRODI, prodiku);
+            Toast.makeText(this,"fakultas: "+fakultasku+"jurusan "+prodiku,Toast.LENGTH_SHORT).show();
             startActivity(myintents);
         } else if (id == R.id.nav_cari) {
             Intent myintent = new Intent(this, CariWisudaActivity.class);
@@ -139,6 +244,7 @@ public class DashboardActivity extends AppCompatActivity
             Intent myintent = new Intent(this, JadwalWisudawan.class);
             startActivity(myintent);
         } else if (id == R.id.nav_logout) {
+            Toast.makeText(this,"Successfully logout . . .",Toast.LENGTH_SHORT).show();
             Intent myintent = new Intent(this, MainActivity.class);
             startActivity(myintent);
         }

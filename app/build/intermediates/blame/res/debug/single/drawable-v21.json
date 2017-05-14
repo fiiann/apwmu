@@ -1,43 +1,15 @@
 [
     {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/drawable-v21/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
         "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\d0c301dcece7256b58c2a191a4b66f4ac1abc4b8\\output\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
         "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable-v21/avd_show_password.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
@@ -58,9 +30,5 @@
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/E:\\apwmu\\apwmu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/home/fian/project/fork_1/apwmu/C:\\Users\\DELL 5480\\.android\\build-cache\\6d0e8b4a4a4ca4ea14792a208c7c56c1dd0bbfa3\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]
