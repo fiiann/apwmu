@@ -73,9 +73,9 @@ public class f_tugas_akhir extends AppCompatActivity {
         nim= getIntent().getExtras().getString(KEY_NIM);
 //        nama= getIntent().getExtras().getString("nama");
 //        d_nama.setText();
-        Toast.makeText(f_tugas_akhir.this,nim,Toast.LENGTH_LONG).show();
+//        Toast.makeText(f_tugas_akhir.this,nim,Toast.LENGTH_LONG).show();
 //        Toast.makeText(TugasAkhirActivity.this,ipk.toString(),Toast.LENGTH_LONG).show();
-        String url = "http://192.168.43.188/kuliah/ppl/api/mhs.php?nim="+nim.toString();
+        String url = "http://192.168.1.24/kuliah/ppl/api/mhs.php?nim="+nim.toString();
 
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,

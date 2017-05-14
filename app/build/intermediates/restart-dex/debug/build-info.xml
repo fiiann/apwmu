@@ -6,26 +6,33 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1494670800519"
+    timestamp="1494767217264"
     token="7467183035313849489"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="9423" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="590" />
     <task
         name="verifier"
-        duration="0" />
+        duration="113" />
+
+    <artifact
+        location="/home/fian/project/fork_1/apwmu/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/fian/project/fork_1/apwmu/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1494670733414"
+        timestamp="1494766136568"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/fian/project/fork_1/apwmu/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
@@ -66,7 +73,22 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1494670800519"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="1494766306420"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/fian/project/fork_1/apwmu/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1494767217264"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/fian/project/fork_1/apwmu/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/fian/project/fork_1/apwmu/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>
