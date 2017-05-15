@@ -20,6 +20,7 @@
         <ImageView
             android:layout_gravity="start"
             android:layout_width="0dp"
+            android:id="@+id/d_foto"
             android:layout_height="130dp"
             android:layout_weight="1"
             android:translationX="-5dp"
@@ -47,6 +48,7 @@
             <ImageView
                 android:contentDescription="@string/image_verif"
                 android:translationY="10dp"
+                android:id="@+id/d_status"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/nverif"
@@ -215,5 +217,16 @@
             android:background="@drawable/btn_pencarian"/>
 
     </LinearLayout>
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/foto"
+        android:textSize="10dp"
+        android:visibility="invisible"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_status"
+        android:textSize="10dp"
+        android:visibility="invisible"/>
 </RelativeLayout>

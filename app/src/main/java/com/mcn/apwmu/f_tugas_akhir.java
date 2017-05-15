@@ -9,6 +9,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -18,6 +19,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.mcn.apwmu.app.AppController;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -39,6 +42,8 @@ public class f_tugas_akhir extends AppCompatActivity {
     private TextView d_nama;
     private TextView jurusan;
     private TextView fakultas;
+    private TextView linkFoto;
+    private ImageLoader imageLoader;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,36 +54,38 @@ public class f_tugas_akhir extends AppCompatActivity {
         judul_ta = (TextView) findViewById(R.id.d_judul_ta);
         dosbing = (TextView) findViewById(R.id.d_pembimbing_satu);
         ipk= (TextView) findViewById(R.id.d_ipk);
-        d_nama = (TextView) findViewById(R.id.d_namas);
-        fakultas= (TextView) findViewById(R.id.d_fakultass);
-        jurusan= (TextView) findViewById(R.id.d_jurusann);
+        d_nama = (TextView) findViewById(R.id.t_namas);
+        jurusan= (TextView) findViewById(R.id.d_jurusan1);
+        fakultas= (TextView) findViewById(R.id.d_fakultas1);
+        linkFoto= (TextView) findViewById(R.id.t_link);
 
-//        text_nim= (TextView) findViewById(R.id.t_nim);
-//        imageView = (NetworkImageView) findViewById(R.id.Image_view);
-//        dialog = new ProgressDialog(this);
-//        dialog.setMessage("Loading...");
-//        dialog.show();
+
 
         Intent intent = getIntent();
         String dashboard_nim = intent.getStringExtra(KEY_NIM);
         String dashboard_nama= intent.getStringExtra(KEY_USERNAME);
         String dashboard_prodi= intent.getStringExtra(DashboardActivity.KEY_PRODI);
         String dashboard_fakultas= intent.getStringExtra(DashboardActivity.KEY_FAKULTAS);
-        jurusan.setText(dashboard_prodi);
-        fakultas.setText(dashboard_fakultas);
+        final String dashboard_foto= intent.getStringExtra(DashboardActivity.KEY_FOTO);
 //        String nim1 = nim.toString();
         d_nama.setText(dashboard_nama);
-//         nim.setText(dashboard_nim);
+        jurusan.setText(dashboard_prodi);
+        fakultas.setText(dashboard_fakultas);
+        linkFoto.setText(dashboard_foto);
+//        Toast.makeText(this,dashboard_nama,Toast.LENGTH_SHORT).show();
 
         nim= getIntent().getExtras().getString(KEY_NIM);
 //        nama= getIntent().getExtras().getString("nama");
 //        d_nama.setText();
+//        Toast.makeText(f_tugas_akhir.this,dashboard_fakultas,Toast.LENGTH_SHORT).show();
+//        Toast.makeText(f_tugas_akhir.this,dashboard_prodi,Toast.LENGTH_SHORT).show();
 //        Toast.makeText(f_tugas_akhir.this,nim,Toast.LENGTH_LONG).show();
 //        Toast.makeText(TugasAkhirActivity.this,ipk.toString(),Toast.LENGTH_LONG).show();
-        String url = "http://192.168.1.24/kuliah/ppl/api/mhs.php?nim="+nim.toString();
+        String url1 = "http://192.168.1.18/kuliah/ppl/api/mhs.php?nim="+nim.toString();
 
 
-        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
+
+        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url1, null,
                 new Response.Listener<JSONObject>() {
                     @Override
                     public void onResponse(JSONObject response) {
@@ -89,6 +96,14 @@ public class f_tugas_akhir extends AppCompatActivity {
                             judul_ta.setText(body.getString("judul_ta"));
                             dosbing.setText(body.getString("pembimbing_ta"));
                             ipk.setText(body.getString("ipk"));
+                            String link = linkFoto.getText().toString().trim();
+                            ImageView foto = (ImageView) findViewById(R.id.t_foto);
+
+                            imageLoader = ImageLoader.getInstance();
+
+                            imageLoader.init(new ImageLoaderConfiguration.Builder(getApplicationContext()).build());
+//                            Toast.makeText(f_tugas_akhir.this,"ini link dari set Text: "+link,Toast.LENGTH_SHORT).show();
+                            imageLoader.displayImage(link,foto);
 //                            text_nim.setText(body.getString("nim"));
 
 

@@ -9,6 +9,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -18,6 +19,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.mcn.apwmu.app.AppController;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -44,6 +47,8 @@ public class f_identitas_pribadi extends AppCompatActivity {
     private TextView pekerjaan;
     private TextView jurusan;
     private TextView fakultas;
+    private TextView linkFoto;
+    private ImageLoader imageLoader;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -63,18 +68,17 @@ public class f_identitas_pribadi extends AppCompatActivity {
         pekerjaan = (TextView) findViewById(R.id.d_pekerjaan);
         fakultas= (TextView) findViewById(R.id.d_fakultass);
         jurusan= (TextView) findViewById(R.id.d_jurusann);
+        linkFoto= (TextView) findViewById(R.id.i_link);
 
 
         Intent intent = getIntent();
         String dashboard_nama= intent.getStringExtra(KEY_USERNAME);
         String dashboard_nim= intent.getStringExtra(KEY_NIM);
-        String dashboard_prodi= intent.getStringExtra(DashboardActivity.KEY_PRODI);
-        String dashboard_fakultas= intent.getStringExtra(DashboardActivity.KEY_FAKULTAS);
-        jurusan.setText(dashboard_prodi);
-        fakultas.setText(dashboard_fakultas);
+        String dashboard_foto= intent.getStringExtra(DashboardActivity.KEY_FOTO);
+//                Toast.makeText(this,dashboard_foto,Toast.LENGTH_SHORT).show();
         text_nama.setText(dashboard_nama);
-//        Toast.makeText(this,dashboard_nim,Toast.LENGTH_SHORT).show();
-        String url = "http://192.168.1.24/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
+        linkFoto.setText(dashboard_foto);
+        String url = "http://192.168.1.18/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
                 new Response.Listener<JSONObject>() {
@@ -94,8 +98,13 @@ public class f_identitas_pribadi extends AppCompatActivity {
                             pekerjaan.setText(body.getString("pekerjaan"));
                             fakultas.setText(body.getString("fakultas"));
                             jurusan.setText(body.getString("jurusan"));
-//                            ipk.setText(body.getString("ipk"));
-//                            text_nim.setText(body.getString("nim"));
+                            String link = linkFoto.getText().toString().trim();
+                            ImageView foto = (ImageView) findViewById(R.id.i_fotoo);
+                            imageLoader = ImageLoader.getInstance();
+
+                            imageLoader.init(new ImageLoaderConfiguration.Builder(getApplicationContext()).build());
+
+                            imageLoader.displayImage(link,foto);
 
 
                         } catch (JSONException e) {
