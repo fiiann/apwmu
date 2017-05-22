@@ -5,8 +5,8 @@ package com.mcn.apwmu.app;
  */
 
 public class AppConfig {
-    public static String URL_LOGIN = "http://localhost/kuliah/ppl/api_v2/login.php";
+    public static final String LOGIN_URL = "http://192.168.1.19/kuliah/ppl/api/login.php";
 
     // Server user register url
-    public static String URL_REGISTER= "http://localhost/kuliah/ppl/api_v2/register.php";
+    public static final String REGISITER_URL = "http://192.168.1.19/kuliah/ppl/api/register.php";
 }

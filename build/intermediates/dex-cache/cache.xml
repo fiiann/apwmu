@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/home/fian/project/fork_1/apwmu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e50b7f492ad25d634f03e914cc8fa4ff31a1f11b">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05715e3175163dc0643f17c71a103ad21195bf5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/fian/project/fork_1/apwmu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +21,57 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/fian/project/fork_1/apwmu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/root/.android/build-cache/e39d30bc2c7564273eff1c395a6cbcba0008634e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c9490f5c9ce95ae824f57dbb4a012c5f62d2006d">
-        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05715e3175163dc0643f17c71a103ad21195bf5f/classes.dex" />
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4ac4011b06ea1a4454f854310acb42c13911104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_6406d509cc7b472f53e2b3fa9cb1602125efb21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_fd07a34dc43844732b21898b1bbd236daaa86a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_a00a8bcf71ca8975472aff024e7f719bdf211608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/fian/project/fork_1/apwmu/app/build/intermediates/pre-dexed/debug/glide-3.5.2_a00a8bcf71ca8975472aff024e7f719bdf211608.jar" />
     </item>
 
 </items>

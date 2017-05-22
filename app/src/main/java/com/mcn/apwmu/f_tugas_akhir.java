@@ -81,7 +81,7 @@ public class f_tugas_akhir extends AppCompatActivity {
 //        Toast.makeText(f_tugas_akhir.this,dashboard_prodi,Toast.LENGTH_SHORT).show();
 //        Toast.makeText(f_tugas_akhir.this,nim,Toast.LENGTH_LONG).show();
 //        Toast.makeText(TugasAkhirActivity.this,ipk.toString(),Toast.LENGTH_LONG).show();
-        String url1 = "http://192.168.1.18/kuliah/ppl/api/mhs.php?nim="+nim.toString();
+        String url1 = "http://192.168.1.19/kuliah/ppl/api/mhs.php?nim="+nim.toString();
 
 
 

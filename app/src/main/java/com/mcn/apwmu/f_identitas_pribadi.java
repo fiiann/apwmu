@@ -78,7 +78,7 @@ public class f_identitas_pribadi extends AppCompatActivity {
 //                Toast.makeText(this,dashboard_foto,Toast.LENGTH_SHORT).show();
         text_nama.setText(dashboard_nama);
         linkFoto.setText(dashboard_foto);
-        String url = "http://192.168.1.18/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
+        String url = "http://192.168.1.19/kuliah/ppl/driver_api/detail.php?nim="+dashboard_nim;
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
                 new Response.Listener<JSONObject>() {

@@ -20,10 +20,6 @@
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/app_bar_informasi_tugas_akhir.xml",
-        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/app_bar_informasi_tugas_akhir.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/layout/design_navigation_item.xml"
     },
@@ -56,12 +52,12 @@
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -104,10 +100,6 @@
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/activity_informasi_tugas_akhir.xml",
-        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/activity_informasi_tugas_akhir.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/content_dashboard.xml",
         "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/content_dashboard.xml"
     },
@@ -140,24 +132,12 @@
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/app_bar_identitas_pribadi.xml",
-        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/app_bar_identitas_pribadi.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/content_informasi_tugas_akhir.xml",
-        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/content_informasi_tugas_akhir.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
         "source": "/root/.android/build-cache/a2ad98a73667f3a0fc45d19cfd60795fe0f85df0/output/res/layout/design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/content_identitas_pribadi.xml",
-        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/content_identitas_pribadi.xml"
     },
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -204,12 +184,12 @@
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/activity_identitas_pribadi.xml",
-        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/activity_identitas_pribadi.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/container_mahasiswa.xml",
+        "source": "/home/fian/project/fork_1/apwmu/app/src/main/res/layout/container_mahasiswa.xml"
     },
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -244,12 +224,12 @@
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.android/build-cache/75a076b67f8765c1ac8e598c35debb4e509472eb/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/home/fian/project/fork_1/apwmu/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",

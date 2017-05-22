@@ -13,6 +13,7 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.READ_PROFILE" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <meta-data
         android:name="android.support.VERSION"
@@ -72,16 +73,6 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.mcn.apwmu.IdentitasPribadiActivity"
-            android:label="Identitas Pribadi"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.mcn.apwmu.InformasiTugasAkhirActivity"
-            android:label="Informasi TA"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name="com.mcn.apwmu.f_identitas_pribadi"
             android:label="@string/title_activity_f_identitas_pribadi"
             android:parentActivityName="com.mcn.apwmu.DashboardActivity"
@@ -103,7 +94,7 @@
             android:name="com.mcn.apwmu.Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
-
+        <!-- <activity android:name=".CariFakultas" /> -->
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
             android:authorities="com.mcn.apwmu.com.android.tools.fd.runtime.InstantRunContentProvider"

@@ -20,7 +20,7 @@
         android:layout_marginBottom="6dp">
 
         <ImageView
-            android:id="@+id/indent_image"
+            android:id="@+id/i_fotoo"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_marginEnd="15dp"
@@ -30,8 +30,8 @@
             android:src="@drawable/dummy"/>
         <TextView
             android:id="@+id/d_namas"
-            android:layout_toEndOf="@id/indent_image"
-            android:layout_toRightOf="@id/indent_image"
+            android:layout_toEndOf="@id/i_fotoo"
+            android:layout_toRightOf="@id/i_fotoo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
@@ -43,8 +43,8 @@
         <TextView
             android:id="@+id/d_fakultass"
             android:layout_below="@id/d_namas"
-            android:layout_toEndOf="@id/indent_image"
-            android:layout_toRightOf="@id/indent_image"
+            android:layout_toEndOf="@id/i_fotoo"
+            android:layout_toRightOf="@id/i_fotoo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Fakultas Sains dan Matematika"
@@ -53,8 +53,8 @@
         <TextView
             android:id="@+id/d_jurusann"
             android:layout_below="@id/d_fakultass"
-            android:layout_toEndOf="@id/indent_image"
-            android:layout_toRightOf="@id/indent_image"
+            android:layout_toEndOf="@id/i_fotoo"
+            android:layout_toRightOf="@id/i_fotoo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ilmu Komputer"
@@ -285,5 +285,10 @@
 
         </RelativeLayout>
     </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/i_link"
+        android:visibility="invisible"/>
 
 </RelativeLayout>
